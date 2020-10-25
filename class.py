@@ -19,6 +19,7 @@ class ANIMAL(object):
 a1=ANIMAL('zebra')
 a1.add_atrutesib(['run', 'eats', 'wild'])     
 print(str(a1))
+ttt
 """
 numbers=[1,2,3,4,5]
 def generate_squares(numbers):
